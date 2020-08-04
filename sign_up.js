@@ -1,4 +1,4 @@
-// Aludra.Network Sign_In.js
+// Aludra.Network Sign_Up.js
 // ========== || ===========
 // This code sign_up.js client-side can be used on your apps or websites
 // Support Aludra Network project for more code on Github.
